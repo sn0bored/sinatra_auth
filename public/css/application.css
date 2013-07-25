@@ -3,11 +3,18 @@
   width: 800px;
   padding: 0px 20px 20px 20px;
   border: 1px dotted black;
+  background-color: #eee;
 }
 
 .container h1 {
   font-size: 17pt;
 
+}
+
+h4{
+  font: sans-serif;
+  font-size: 20px;
+  color: blue;
 }
 
 nav {
